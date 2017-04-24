@@ -30,28 +30,16 @@ html,body{
 	height: 40%;
 }
 .azulFuerte{
-	background-color: #0c2b40;
+	background-color: : #0c2b40;
 }
 .crema{
 	background-color:  #fff8e7;
 }
 .naranja{
-	background-color: #f18728;
+	background-color: #fbbb1c;
 }
 .amarillo{
-	background-color: #fbbb1c;
+	background-color: #FDD835;
 }
 .azul{
 	background-color: #2e7a97;
-}
-.inline-block{
-	display: inline-block;
-}
-a{
-	text-decoration: none;
-}
-a:hover{
-	background-color: #0c2b40;
-	color: #fbbb1c;
-}
-.
