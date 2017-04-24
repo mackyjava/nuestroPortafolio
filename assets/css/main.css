@@ -1,0 +1,42 @@
+.flotar{
+	float: left;
+}
+.limpiar{
+	clear: left;
+}
+.foto{
+	width: 300px;
+	height: 300px;
+}
+.absoluto{
+	position: absolute;
+}
+.relativo{
+	position: relative;
+}
+.boton{
+	padding: 5px;
+	background-color: orange;
+}
+.letraBlanca{
+	color: white;
+}
+.contenedorFoto{
+	width: 400px;
+	height: 400px;
+}
+.azulFuerte{
+	background-color: #0c2b40;
+}
+.crema{
+	background-color:  #fff8e7;
+}
+.naranja{
+	background-color: #f18728;
+}
+.amarillo{
+	background-color: #fbbb1c;
+}
+.azul{
+	background-color: #2e7a97;
+}
