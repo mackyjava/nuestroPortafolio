@@ -32,14 +32,27 @@
 	background-color:  #fff8e7;
 }
 .naranja{
-	background-color: #f18728;
+	background-color: #fbbb1c;
 }
 .amarillo{
-	background-color: #fbbb1c;
+	background-color: #FDD835;
 }
 .azul{
 	background-color: #2e7a97;
-}
-.inlin-blo{
+  
+.inlin-block{
+	display: inline-block
+
+li{
 	display: inline-block;
+	list-style: none;
+}
+
+li:hover{
+	background-color: #fbbb1c;/*Color anaranjado*/
+}
+
+#portada{
+	width: 100%;
+	height: 500p
 }
