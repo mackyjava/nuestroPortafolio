@@ -1,6 +1,7 @@
 
 html,body{
 	height: 100%;
+  font-family: verdana;
 }
 .flotar{
 	float: left;
@@ -45,4 +46,42 @@ html,body{
 }
 .azul{
 	background-color: #2e7a97;
+}
+
+
+/*Estilos de la sección Portada*/
+#portada{
+	width: 100%;
+	height: 500px;
+	margin-top: 0;
+}
+
+li{
+	display: inline-block;
+	margin: 15px;
+	padding: 15px;
+	list-style: none;
+}
+
+li:hover{
+	cursor: pointer;
+	background-color: #fbbb1c;/*Color anaranjado*/
+}
+
+.derecha{
+	float: right;
+}
+
+.margen{
+	margin-right: 150px;
+}
+
+#laboratoria{
+	width: 50%;
+	margin-top: 15%;
+	margin-left: 25%;
+	text-align: center;
+}
+
+
 
