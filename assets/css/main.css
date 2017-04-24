@@ -1,3 +1,7 @@
+html,body{
+	height: 100%;
+	margin-left: 10%;
+}
 .flotar{
 	float: left;
 }
@@ -5,8 +9,8 @@
 	clear: left;
 }
 .foto{
-	width: 300px;
-	height: 300px;
+	width: 30%;
+	height: 30%;
 }
 .absoluto{
 	position: absolute;
@@ -22,8 +26,8 @@
 	color: white;
 }
 .contenedorFoto{
-	width: 400px;
-	height: 400px;
+	width: 40%;
+	height: 40%;
 }
 .azulFuerte{
 	background-color: #0c2b40;
@@ -40,8 +44,8 @@
 .azul{
 	background-color: #2e7a97;
 }
-section{
-	float: "flotar";
+.inline-block{
+	display: inline-block;
 }
 a{
 	text-decoration: none;
@@ -50,3 +54,4 @@ a:hover{
 	background-color: #0c2b40;
 	color: #fbbb1c;
 }
+.
