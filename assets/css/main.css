@@ -26,7 +26,7 @@
 	height: 400px;
 }
 .azulFuerte{
-	background-color: #0c2b40;
+	background-color: : #0c2b40;
 }
 .crema{
 	background-color:  #fff8e7;
@@ -39,4 +39,7 @@
 }
 .azul{
 	background-color: #2e7a97;
+}
+.inlin-blo{
+	display: inline-block;
 }
