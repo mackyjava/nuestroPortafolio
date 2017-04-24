@@ -48,4 +48,17 @@ html,body{
 }
 .azul{
 	background-color: #2e7a97;
-
+ }
+ .inline-block{
+   display: inline-block;
+ }
+ .centrarImagen{
+   left: 35%;
+ }
+.texto{
+  padding: 10px;
+  text-align: justify;
+}
+.centrarBtn{
+  left: 41%;
+}
