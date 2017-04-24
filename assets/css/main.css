@@ -26,7 +26,7 @@
 	height: 400px;
 }
 .azulFuerte{
-	background-color: #0c2b40;
+	background-color: : #0c2b40;
 }
 .crema{
 	background-color:  #fff8e7;
@@ -39,7 +39,9 @@
 }
 .azul{
 	background-color: #2e7a97;
-}
+  
+.inlin-block{
+	display: inline-block
 
 li{
 	display: inline-block;
@@ -52,5 +54,5 @@ li:hover{
 
 #portada{
 	width: 100%;
-	height: 500px;
+	height: 500p
 }
