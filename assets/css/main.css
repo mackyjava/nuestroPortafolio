@@ -1,7 +1,6 @@
 
 html,body{
 	height: 100%;
-	margin-left: 10%;
 }
 .flotar{
 	float: left;
@@ -10,10 +9,8 @@ html,body{
 	clear: left;
 }
 .foto{
-
 	width: 30%;
 	height: 30%;
-
 }
 .absoluto{
 	position: absolute;
