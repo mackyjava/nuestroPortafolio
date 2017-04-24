@@ -40,3 +40,13 @@
 .azul{
 	background-color: #2e7a97;
 }
+section{
+	float: "flotar";
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	background-color: #0c2b40;
+	color: #fbbb1c;
+}
