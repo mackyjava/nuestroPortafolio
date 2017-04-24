@@ -1,3 +1,9 @@
+
+html,body{
+	height: 100%;
+  font-family: verdana;
+ 
+}
 .flotar{
 	float: left;
 }
@@ -5,8 +11,10 @@
 	clear: left;
 }
 .foto{
-	width: 300px;
-	height: 300px;
+
+	width: 30%;
+	height: 30%;
+
 }
 .absoluto{
 	position: absolute;
@@ -22,16 +30,18 @@
 	color: white;
 }
 .contenedorFoto{
-	width: 400px;
-	height: 400px;
+
+	width: 40%;
+	height: 40%;
 }
 .azulFuerte{
-	background-color: #0c2b40;
+	background-color: : #0c2b40;
 }
 .crema{
 	background-color:  #fff8e7;
 }
 .naranja{
+
 	background-color: #fbbb1c;
 }
 .amarillo{
@@ -41,9 +51,7 @@
 	background-color: #2e7a97;
 }
 
-body{
-	font-family: verdana;
-}
+
 /*Estilos de la sección Portada*/
 #portada{
 	width: 100%;
@@ -77,3 +85,6 @@ li:hover{
 	margin-left: 25%;
 	text-align: center;
 }
+
+
+
