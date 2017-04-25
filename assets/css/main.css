@@ -2,7 +2,7 @@
 html,body{
 	height: 100%;
 	font-family:verdana;
-    background-color: gray;
+  background-color: gray;
 }
 .flotar{
 	float: left;
@@ -110,6 +110,3 @@ button:hover{
 	cursor: pointer;
 	background-color: #fbbb1c;
 }
-
-    
-
