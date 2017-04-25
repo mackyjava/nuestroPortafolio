@@ -112,3 +112,28 @@ button:hover{
 	cursor: pointer;
 	background-color: gray;
 }
+
+
+
+.pie{
+	background-color: #fbbb1c;
+	font-family: helvetica;
+	height: 40px;
+	width: 100%;
+	padding: 5%;
+}
+
+
+.redes{
+	width:40px;
+	height: 40px;
+	margin-left: 150px;
+	border-radius: 10px;
+}
+.foto:hover{
+	-ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Chrome, Safari, Opera */
+  transform: scale(1.1);
+
+}
+
