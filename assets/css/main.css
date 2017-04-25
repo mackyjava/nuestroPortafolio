@@ -1,3 +1,9 @@
+
+html,body{
+	height: 100%;
+	font-family:verdana;
+    background-color: gray;
+}
 .flotar{
 	float: left;
 }
@@ -5,8 +11,10 @@
 	clear: left;
 }
 .foto{
-	width: 300px;
-	height: 300px;
+
+	width: 30%;
+	height: 30%;
+
 }
 .absoluto{
 	position: absolute;
@@ -22,21 +30,76 @@
 	color: white;
 }
 .contenedorFoto{
-	width: 400px;
-	height: 400px;
+
+	width: 40%;
+	height: 40%;
+   margin-left: 7%;
+    margin-top: 1%;
 }
 .azulFuerte{
-	background-color: #0c2b40;
+	background-color: : #0c2b40;
 }
 .crema{
 	background-color:  #fff8e7;
 }
 .naranja{
-	background-color: #f18728;
+
+	background-color: #fbbb1c;
 }
 .amarillo{
-	background-color: #fbbb1c;
+	background-color: #FDD835;
 }
 .azul{
 	background-color: #2e7a97;
+
 }
+
+ }
+ .inline-block{
+   display: inline-block;
+ }
+ .centrarImagen{
+   left: 35%;
+ }
+.texto{
+  padding: 10px;
+  text-align: justify;
+}
+.centrarBtn{
+  left: 41%;
+}
+
+li{
+	display: inline-block;
+	margin: 15px;
+	padding: 15px;
+	list-style: none;
+}
+li:hover{
+	cursor: pointer;
+	background-color: #fbbb1c;
+}
+.derecha{
+	float: right;
+
+}
+.margen {
+	margin-right: 150px;
+}
+#laboratoria{
+	width: 100%;
+	top: 45%;
+	margin-left: 0;
+	text-align: center;
+    position: absolute;
+}
+.portada{
+    width: 100%;
+    height: 55%;
+    margin-top: -2%;
+    background-color: #fbbb1c;
+}
+
+    
+
+
