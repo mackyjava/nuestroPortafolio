@@ -2,7 +2,7 @@
 html,body{
 	height: 100%;
 	font-family:verdana;
-    background-color: gray;
+  background-color: gray;
 }
 .flotar{
 	float: left;
@@ -111,6 +111,7 @@ button:hover{
 	background-color: #fbbb1c;
 }
 
+
 .pie{
 	background-color: #fbbb1c;
 	font-family: helvetica;
@@ -126,3 +127,4 @@ button:hover{
 	margin-left: 150px;
 	border-radius: 10px;
 }
+
