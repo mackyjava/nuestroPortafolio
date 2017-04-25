@@ -6,10 +6,13 @@ html,body{
 }
 .flotar{
 	float: left;
+	border-radius: 20px;
 }
 .foto{
 	width: 60%;
 	height: 300px;
+	margin-top: 20px;
+	border-radius: 20px;
 }
 .absoluto{
 	position: absolute;
@@ -32,7 +35,7 @@ html,body{
 	padding-top: 2%
 }
 .azulFuerte{
-	background-color: : #0c2b40;
+	color: white;
 }
 .crema{
 	background-color:  #fff8e7;
@@ -90,10 +93,9 @@ li:hover{
 }
 #laboratoria{
 	width: 100%;
-
 	margin-left: 0;
 	text-align: center;
-    position: absolute;
+  position: absolute;
 }
 .portada{
     width: 100%;
@@ -108,8 +110,9 @@ li:hover{
 }
 button:hover{
 	cursor: pointer;
-	background-color: #fbbb1c;
+	background-color: gray;
 }
+
 
 
 .pie{
@@ -133,3 +136,4 @@ button:hover{
   transform: scale(1.1);
 
 }
+
