@@ -112,7 +112,7 @@ button:hover{
 }
 
 .pie{
-  margin-top: 25px;
+  margin-top: 50px;
 	background-color: #fbbb1c;
 	font-family: helvetica;
 	height: 27px;
@@ -126,6 +126,6 @@ button:hover{
 	height:40px;
 	margin-left: 15px;
 	border-radius: 10px;
-	hspace: 200px;
+
 
 }
