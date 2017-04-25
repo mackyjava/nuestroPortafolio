@@ -52,6 +52,7 @@ html,body{
  }
 .inline-block{
 	display: inline-block;
+	border-radius: 20px;
  }
 .centrarImagen{
 	margin-left: 20%;
@@ -136,4 +137,3 @@ button:hover{
   transform: scale(1.1);
 
 }
-
