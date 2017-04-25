@@ -11,9 +11,9 @@ html,body{
 	clear: left;
 }
 .foto{
-
-	width: 30%;
-	height: 30%;
+	display: block;
+	width: 80%;
+	height: 250px;
 
 }
 .absoluto{
@@ -30,11 +30,11 @@ html,body{
 	color: white;
 }
 .contenedorFoto{
-
 	width: 40%;
-	height: 40%;
-   margin-left: 7%;
-    margin-top: 1%;
+	height: 30%;
+   margin-left: 5%;
+   margin-top: 5%;
+    padding-top: 5%
 }
 .azulFuerte{
 	background-color: : #0c2b40;
@@ -52,18 +52,28 @@ html,body{
 .azul{
 	background-color: #2e7a97;
  }
- .inline-block{
-   display: inline-block;
+.inline-block{
+	display: inline-block;
  }
- .centrarImagen{
-   left: 35%;
+.centrarImagen{
+	margin-left: 10%;
  }
 .texto{
-  padding: 10px;
-  text-align: justify;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 10px;
+	text-align: justify;
+}
+.subtitulos{
+	margin-top:5%;
+	margin-left: 10%;
 }
 .centrarBtn{
-  left: 41%;
+	margin-left: 41%;
+	margin-bottom: 5%;
+}
+.bck{
+	display: block;
 }
 
 li{
@@ -95,6 +105,10 @@ li:hover{
     height: 55%;
     margin-top: -2%;
     background-color: #fbbb1c;
+}
+button:hover{
+	cursor: pointer;
+	background-color: #fbbb1c;
 }
 
     
